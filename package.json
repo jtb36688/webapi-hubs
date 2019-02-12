@@ -26,5 +26,8 @@
   "devDependencies": {
     "nodemon": "^1.18.9"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.16.4",
+    "moment": "^2.24.0"
+  }
 }
